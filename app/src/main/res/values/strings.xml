@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GormalOneTask</string>
+    <string name="add_product">Add Product</string>
+    <string name="book">Book</string>
+    <string name="sync_product">Sync Products</string>
+    <string name="product_name">Product Name</string>
+    <string name="product_description">Product Description</string>
+    <string name="product_quantity">Product Quantity</string>
+    <string name="product_price">Product Price</string>
+    <string name="btn_save">Save</string>
+</resources>
